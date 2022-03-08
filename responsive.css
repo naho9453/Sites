@@ -11,8 +11,7 @@
 
 main {
   width: auto;
-  margin-top: 0px;
-  justify-content: center;
+  margin-top: 50px;
 }
 
 .blog {
@@ -23,6 +22,7 @@ main {
 
 .blog-box {
   display: flex;
+  justify-content: center;
 }
 
 .blog-item {
@@ -72,6 +72,7 @@ p {
 .footer {
   width: 100%;
   height: 50px;
+  margin-top: 50px;
   background-color: #aaa;
 }
 
