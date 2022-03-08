@@ -79,12 +79,7 @@ p {
 @media screen and (max-width: 768px) {
   .header {
     width: 100%;
-    margin-bottom: 50px;
-  }
-
-  .blog-item {
-    width: 90%;
-    margin-top: 20px;
+    /* margin-bottom: 50px; */
   }
 
   main {
@@ -98,8 +93,16 @@ p {
     margin: 0 auto;
   }
 
+
+  .blog-item {
+    width: 90%;
+    margin-top: 20px;
+
+  }
+
+
   .footer {
     width: 100%;
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
 }
